@@ -1,0 +1,1 @@
+memberSearchIndex = [{"l":"Main()","h":"","u":"%3Cinit%3E()"},{"l":"main(String[])","h":"","u":"main(java.lang.String[])"},{"l":"opInterface()","h":"","u":""},{"l":"taxComputer(double, double[], double[], double)","h":"","u":"taxComputer(double,double[],double[],double)"},{"l":"taxHelper(int)","h":"","u":""}]
